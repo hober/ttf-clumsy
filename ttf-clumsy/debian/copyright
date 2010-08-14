@@ -105,4 +105,6 @@ License: Open Font License 1.1
 
 Files: debian/*
 Copyright: (C) 2010 Edward O'Connor <hober0@gmail.com>
+Derived from the ttf-inconsolata package, which is
+Copyright: (C) 2007-2009 Nicolas Spalinger <nicolas.spalinger@sil.org>
 License: The packaging is released under the same license as the Font Software.
