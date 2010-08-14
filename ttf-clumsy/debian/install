@@ -1,0 +1,2 @@
+*.ttf usr/share/fonts/truetype/ttf-clumsy
+debian/bug/* usr/share/bug/ttf-clumsy

@@ -1,0 +1,17 @@
+Source: ttf-clumsy
+Section: fonts
+Priority: optional
+Maintainer: Edward O'Connor <hober0@gmail.com
+Uploaders: Edward O'Connor <hober0@gmail.com
+Build-Depends: debhelper (>= 7.2.3)
+Standards-Version: 3.8.3
+Homepage: http://clumsy.kylesteed.com/
+Vcs-git: // insert github checkout url here
+Vcs-Browser: // insert github browse url here
+
+Package: ttf-clumsy
+Architecture: all
+Depends: ${misc:Depends}
+Suggests: x-ttcidfont-conf | fontconfig
+Description: Whimsical typeface from Kyle Steed
+ It is released under the SIL Open Font License.
