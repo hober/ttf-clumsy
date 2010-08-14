@@ -12,6 +12,9 @@ $(ROOT)/Clumsy.ttf $(ROOT)/Open\ Font\ License.txt: $(ROOT)/clumsy.zip
 $(ROOT)/clumsy.zip:
 	cd $(ROOT) && curl -O http://clumsy.kylesteed.com/clumsy.zip
 
+install: ttf-clumsy_001.000-1_all.deb
+	dpkg -i ttf-clumsy_001.000-1_all.deb
+
 clean:
 	rm -f ttf-clumsy_001.* *~
 	cd $(ROOT) && rm -f Clumsy.ttf *.txt clumsy.zip
