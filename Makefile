@@ -15,3 +15,4 @@ $(ROOT)/clumsy.zip:
 clean:
 	rm -f ttf-clumsy_001.* *~
 	cd $(ROOT) && rm -f Clumsy.ttf *.txt clumsy.zip
+	cd $(ROOT)/debian && rm -rf ttf-clumsy.debhelper.log ttf-clumsy.substvars ttf-clumsy/
