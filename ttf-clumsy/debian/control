@@ -4,10 +4,10 @@ Priority: optional
 Maintainer: Edward O'Connor <hober0@gmail.com
 Uploaders: Edward O'Connor <hober0@gmail.com
 Build-Depends: debhelper (>= 7.2.3)
-Standards-Version: 3.8.3
+Standards-Version: 3.8.4
 Homepage: http://clumsy.kylesteed.com/
-Vcs-git: // insert github checkout url here
-Vcs-Browser: // insert github browse url here
+Vcs-git: git://github.com/hober/ttf-clumsy.git
+Vcs-Browser: http://github.com/hober/ttf-clumsy
 
 Package: ttf-clumsy
 Architecture: all
