@@ -1,8 +1,8 @@
 Source: ttf-clumsy
 Section: fonts
 Priority: optional
-Maintainer: Edward O'Connor <hober0@gmail.com
-Uploaders: Edward O'Connor <hober0@gmail.com
+Maintainer: Edward O'Connor <hober0@gmail.com>
+Uploaders: Edward O'Connor <hober0@gmail.com>
 Build-Depends: debhelper (>= 7.2.3)
 Standards-Version: 3.8.4
 Homepage: http://clumsy.kylesteed.com/
